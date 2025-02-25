@@ -1,8 +1,11 @@
 ## Muzic 🚀
 
 ⏺️ This is a SAAS Muzic application where a user can login and start a stream/zam. 
+
 ⏺️ The streamer can share the link to anyone and they can also join in and listen to the music.
+
 ⏺️ The streamer as well as anyone who is in zam can add a song in the upcoming songs but only the streamer can change the song. 
+
 ⏺️ Everyone can also vote any song to put it on the top or to the down to play it later.
 
 ## Landing Page
